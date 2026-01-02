@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Library Management System 
+=======
+# Library_Management_System
+>>>>>>> f8c613a68e339cf3a5654d823a40c93147e0380c
 
 A console-based Library Management System built in C. This project was developed as part of my first-semester coursework to demonstrate understanding of procedural programming, file handling, and data structures in C.
 
@@ -41,14 +45,21 @@ A console-based Library Management System built in C. This project was developed
         ./library_app
         ```
 
+<<<<<<< HEAD
 ##  Screenshots
 
 *(Optional: You can add screenshots of your console window here later to show how the menu looks!)*
 
+=======
+>>>>>>> f8c613a68e339cf3a5654d823a40c93147e0380c
 ##  Contributing
 
 This is a student project, but suggestions are welcome! Feel free to open an issue or pull request if you find bugs or want to improve the code.
 
 ##  License
 
+<<<<<<< HEAD
 This project is open-source and available under the [MIT License](LICENSE).
+=======
+This project is open-source and available under the [MIT License](LICENSE).
+>>>>>>> f8c613a68e339cf3a5654d823a40c93147e0380c
